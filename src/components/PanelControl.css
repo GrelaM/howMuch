@@ -1,0 +1,28 @@
+.pc_background {
+    width: 250px;
+    min-height: 100vh;
+    background-image: url("../img/logo.jpg");
+}
+
+.pc {
+    width: inherit;
+    min-height: inherit;
+    background-color: rgba(0,0,0,0.9);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: top;
+}
+
+.pc_title {
+    width: 90%;
+    height: 60px;
+    margin: 5px 5px 20px 5px;
+    font-size: 1.4em;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 55px;
+    color: white;
+    letter-spacing: 3px;
+    border-bottom: solid 1px rgba(255,255,255,0.5);
+}

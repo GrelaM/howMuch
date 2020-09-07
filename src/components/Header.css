@@ -1,0 +1,20 @@
+.header {
+    height: 60px;
+    width: inherit;
+    color: black;
+    border-bottom: 1px solid black;
+    background-color: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: left;
+    padding: 1px;
+}
+
+.header_title {
+    font-size: 1.4em;
+    font-weight: 100;
+    text-transform: uppercase;
+    margin: 0 25px;
+    background-color: none;
+}

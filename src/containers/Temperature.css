@@ -1,0 +1,21 @@
+.temp_unit {
+    width: 30px;
+    height: 45x;
+    margin: 15px 15px 5px 15px;
+    font-size: 1.8em;
+    font-weight: 100;
+}
+
+.temp_unit_index {
+    font-size: 0.6em;
+}
+
+.temp_results {
+    min-width: 50px;
+    height: 60px;
+    margin: 10px 25px;
+    padding: 5px;
+    text-align: center;
+    font-size: 2.4em;
+    /* border-bottom: 1px solid black; */
+}

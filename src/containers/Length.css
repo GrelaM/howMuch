@@ -1,0 +1,29 @@
+.length_space_around {
+    justify-content: space-around;
+    min-width: 600px;
+    min-height: 200px;
+}
+
+.length_inner_margin {
+    margin: 5px;
+}
+
+.length_upper_margin {
+    margin-top: 45px;
+}
+
+.length-operation_box {
+    min-height: 180px;
+    padding: 30px;
+    border-bottom: 1px solid rgb(0,0,0,0.5);
+}
+
+.length_results {
+    height: 1.1876em;
+    min-width: 200px;
+    margin: 10px 0;
+    padding: 5px 0;
+    font-size: 2em;
+    text-align: center;
+    border-bottom: 1px solid rgb(0,0,0,0.5);
+}
